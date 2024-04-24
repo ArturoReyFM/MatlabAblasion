@@ -1,2 +1,2 @@
 # MatlabAblasion
-Este proyeto contendrá la programación de un sistema de ablasión
+Este proyeto contiene la programación para el control de un sistema de ablación
